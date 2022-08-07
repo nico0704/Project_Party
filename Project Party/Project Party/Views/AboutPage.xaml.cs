@@ -10,6 +10,8 @@ namespace Project_Party.Views
         public AboutPage()
         {
             InitializeComponent();
+            lblFirstName.Text = "Test";
+            DisplayAlert("Test", "sadasd", "abbrechen");
         }
     }
 }

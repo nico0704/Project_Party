@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <SelectedDevice>Android-Emulator</SelectedDevice>
+    <SelectedDevice>Pixel_XL_API_30</SelectedDevice>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
-    <ActiveDebugProfile>Android-Emulator</ActiveDebugProfile>
+    <ActiveDebugProfile>Pixel_XL_API_30</ActiveDebugProfile>
+    <DefaultDevice>Pixel_XL_API_30</DefaultDevice>
   </PropertyGroup>
 </Project>
