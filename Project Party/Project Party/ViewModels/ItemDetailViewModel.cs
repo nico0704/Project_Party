@@ -35,10 +35,12 @@ namespace Project_Party.ViewModels
             set
             {
                 itemId = value;
-                LoadItemId(value);
+               /* LoadItemId(value);
+                */
             }
         }
 
+        /*
         public async void LoadItemId(string itemId)
         {
             try
@@ -53,5 +55,6 @@ namespace Project_Party.ViewModels
                 Debug.WriteLine("Failed to Load Item");
             }
         }
+        */
     }
 }

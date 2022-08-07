@@ -10,8 +10,9 @@ namespace Project_Party.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
+        public IDataStore<Party> DataStore => DependencyService.Get<IDataStore<Party>>();
 
+        
         bool isBusy = false;
         public bool IsBusy
         {
@@ -26,6 +27,7 @@ namespace Project_Party.ViewModels
             set { SetProperty(ref title, value); }
         }
 
+       
         protected bool SetProperty<T>(ref T backingStore, T value,
             [CallerMemberName] string propertyName = "",
             Action onChanged = null)
@@ -38,6 +40,7 @@ namespace Project_Party.ViewModels
             OnPropertyChanged(propertyName);
             return true;
         }
+        
 
         #region INotifyPropertyChanged
         public event PropertyChangedEventHandler PropertyChanged;
@@ -50,5 +53,6 @@ namespace Project_Party.ViewModels
             changed.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
         #endregion
+        
     }
 }

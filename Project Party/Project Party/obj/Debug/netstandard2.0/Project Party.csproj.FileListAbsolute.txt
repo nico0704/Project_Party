@@ -1,0 +1,22 @@
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\bin\Debug\netstandard2.0\Project Party.deps.json
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\bin\Debug\netstandard2.0\Project Party.dll
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\bin\Debug\netstandard2.0\Project Party.pdb
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.csproj.AssemblyReference.cache
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.AssemblyInfoInputs.cache
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.AssemblyInfo.cs
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.csproj.CoreCompileInputs.cache
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.dll
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\refint\Project Party.dll
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Project Party.pdb
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\ref\Project Party.dll
+C:\Users\pmtbb\Source\Repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\pmtbb\source\repos\Project_Party\Project Party\Project Party\obj\Debug\netstandard2.0\Views\SinglePartyPage.xaml.g.cs

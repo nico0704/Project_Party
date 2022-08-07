@@ -1,22 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj": {}
+    "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj": {
+    "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj",
         "projectName": "Project Party.iOS",
-        "projectPath": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj",
-        "packagesPath": "C:\\Users\\Besitzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party.iOS\\obj\\",
+        "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party.iOS\\Project Party.iOS.csproj",
+        "packagesPath": "C:\\Users\\pmtbb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Besitzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pmtbb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
@@ -28,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party\\Project Party.csproj": {
-                "projectPath": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party\\Project Party.csproj"
+              "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj": {
+                "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj"
               }
             }
           }
@@ -61,18 +65,22 @@
         }
       }
     },
-    "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party\\Project Party.csproj": {
+    "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party\\Project Party.csproj",
+        "projectUniqueName": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj",
         "projectName": "Project Party",
-        "projectPath": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party\\Project Party.csproj",
-        "packagesPath": "C:\\Users\\Besitzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Besitzer\\source\\repos\\Project Party\\Project Party\\Project Party\\obj\\",
+        "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj",
+        "packagesPath": "C:\\Users\\pmtbb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Besitzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pmtbb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
