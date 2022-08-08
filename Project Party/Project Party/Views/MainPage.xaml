@@ -16,7 +16,6 @@
                         <Grid Padding="0, 10">
 
                             <Frame CornerRadius="20"  
-                            OutlineColor="LightGray" 
                             BackgroundColor="White"
                             HasShadow="False" 
                             >
@@ -26,30 +25,16 @@
                                         <RowDefinition Height="20"></RowDefinition>
                                         <RowDefinition ></RowDefinition>
                                         <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
                                     </Grid.RowDefinitions>
 
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="100"></ColumnDefinition>
                                         <ColumnDefinition></ColumnDefinition>
                                     </Grid.ColumnDefinitions>
-                                    
-                                    <Image Grid.Column="0"
-                                           Grid.Row="0"
-                                           Grid.RowSpan="3"
-                                           x:Name="myImg"
-                                           Source="https://psdfreebies.com/wp-content/uploads/2021/11/Weekend-Club-Party-Flyer-PSD-Template-Preview-730x1024.jpg" />
-                                    <Label Grid.Row="0"
-                                           Grid.Column="1"
-                                           Text="{Binding Name}"
                                         TextColor="#f35e20" />
-                                   
-                                    <Label Grid.Row="1"
-                                           Grid.Column="1"
-                                           Text="{Binding Time, StringFormat='{}{0:dd/MM HH:mm }'}"
                                         TextColor="#503026" />
-                                    <Label Grid.Row="2"
-                                           Grid.Column="1"
-                                            TextColor="#503026">
+                                        TextColor="#503026">
                                         <Label.Text>
                                             <MultiBinding StringFormat="{}{0}, {1}">
                                                 <Binding Path="LocationName" />

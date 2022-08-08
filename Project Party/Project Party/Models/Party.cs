@@ -15,9 +15,7 @@ namespace Project_Party.Models
         public string Adress { get; set; }
         public string LocationName { get; set; }
 
-       /* public Party(int partyId,string name, string pictureName, string description, DateTime time, string locationName, string city, string adress)
         {
-            Id = partyId;
             Name = name;
             Description = description;
             PictureName = pictureName;

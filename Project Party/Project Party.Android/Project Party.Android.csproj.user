@@ -5,6 +5,9 @@
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <ActiveDebugProfile>Pixel_XL_API_30</ActiveDebugProfile>
     <DefaultDevice>Pixel_XL_API_30</DefaultDevice>
+<<<<<<< HEAD
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
   </PropertyGroup>
 </Project>

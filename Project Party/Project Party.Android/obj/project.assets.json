@@ -3203,6 +3203,10 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v12.0": [
+<<<<<<< HEAD
+=======
+      "Project Party >= 1.0.0",
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
       "Xamarin.CommunityToolkit >= 2.0.4",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
@@ -3239,7 +3243,15 @@
       },
       "frameworks": {
         "monoandroid12.0": {
+<<<<<<< HEAD
           "projectReferences": {}
+=======
+          "projectReferences": {
+            "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj": {
+              "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj"
+            }
+          }
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
         }
       }
     },
