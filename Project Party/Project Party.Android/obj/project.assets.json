@@ -1554,20 +1554,6 @@
         "build": {
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
-      },
-      "Project Party/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/Project Party.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project Party.dll": {}
-        }
       }
     }
   },
@@ -3213,16 +3199,10 @@
         "xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
-    },
-    "Project Party/1.0.0": {
-      "type": "project",
-      "path": "../Project Party/Project Party.csproj",
-      "msbuildProject": "../Project Party/Project Party.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v12.0": [
-      "Project Party >= 1.0.0",
       "Xamarin.CommunityToolkit >= 2.0.4",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
@@ -3259,11 +3239,7 @@
       },
       "frameworks": {
         "monoandroid12.0": {
-          "projectReferences": {
-            "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj": {
-              "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

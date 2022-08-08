@@ -150,20 +150,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "Project Party/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/Project Party.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project Party.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -314,20 +300,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "Project Party/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/Project Party.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project Party.dll": {}
         }
       }
     },
@@ -480,20 +452,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "Project Party/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/Project Party.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project Party.dll": {}
-        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -644,20 +602,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "Project Party/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/Project Party.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project Party.dll": {}
         }
       }
     }
@@ -967,16 +911,10 @@
         "xamarin.forms.5.0.0.2196.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "Project Party/1.0.0": {
-      "type": "project",
-      "path": "../Project Party/Project Party.csproj",
-      "msbuildProject": "../Project Party/Project Party.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Project Party >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
     ]
@@ -1012,11 +950,7 @@
       },
       "frameworks": {
         "xamarinios10": {
-          "projectReferences": {
-            "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj": {
-              "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },
