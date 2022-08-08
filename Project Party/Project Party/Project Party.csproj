@@ -25,7 +25,5 @@
     </EmbeddedResource>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="NewFolder1\NewFolder\" />
-  </ItemGroup>
+
 </Project>
