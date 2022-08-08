@@ -1932,7 +1932,10 @@ int drawable tooltip_frame_dark 0x7f070090
 int drawable tooltip_frame_light 0x7f070091
 int drawable xamarin_logo 0x7f070092
 <<<<<<< HEAD
+<<<<<<< HEAD
 int drawable zahnrad 0x7f070093
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 =======
 >>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 int id ALT 0x7f080000

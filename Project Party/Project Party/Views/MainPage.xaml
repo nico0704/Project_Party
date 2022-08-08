@@ -5,8 +5,13 @@
              xmlns:xct="http://xamarin.com/schemas/2020/toolkit" xmlns:local="clr-namespace:Project_Party.ViewModels">
     
     <ContentPage.Content>
+<<<<<<< HEAD
         <RefreshView Command="{Binding LoadPartysCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
             <CollectionView Margin="20" x:Name="listView" SelectionMode="Single" ItemsSource="{Binding PartyList}">
+=======
+        <RefreshView x:DataType="local:MainPageViewModel" Command="{Binding LoadPartyCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+            <CollectionView Margin="20" x:Name="listView" WidthRequest="59" SelectionMode="Single" ItemsSource="{Binding PartyList}">
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
                 <CollectionView.ItemsLayout>
                     <LinearItemsLayout Orientation="Vertical" />
                 </CollectionView.ItemsLayout>
@@ -16,6 +21,10 @@
                         <Grid Padding="0, 10">
 
                             <Frame CornerRadius="20"  
+<<<<<<< HEAD
+=======
+                            OutlineColor="Black" 
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
                             BackgroundColor="White"
                             HasShadow="False" 
                             >
@@ -23,7 +32,10 @@
                                 <Grid HeightRequest="150">
                                     <Grid.RowDefinitions>
                                         <RowDefinition Height="20"></RowDefinition>
+<<<<<<< HEAD
                                         <RowDefinition ></RowDefinition>
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
                                         <RowDefinition></RowDefinition>
                                         <RowDefinition></RowDefinition>
                                     </Grid.RowDefinitions>
@@ -32,8 +44,17 @@
                                         <ColumnDefinition Width="100"></ColumnDefinition>
                                         <ColumnDefinition></ColumnDefinition>
                                     </Grid.ColumnDefinitions>
+<<<<<<< HEAD
                                         TextColor="#f35e20" />
                                         TextColor="#503026" />
+=======
+                                    <Image Grid.Column="0" Grid.Row="0" Grid.RowSpan="3" x:Name="myImg" Source="https://psdfreebies.com/wp-content/uploads/2021/11/Weekend-Club-Party-Flyer-PSD-Template-Preview-730x1024.jpg" />
+                                    <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}"
+                                        TextColor="#f35e20" />
+                                    <Label Grid.Row="1" Grid.Column="1" Text="{Binding Time, StringFormat='{}{0:dd/MM HH:mm }'}"
+                                        TextColor="#503026" />
+                                    <Label Grid.Row="2" Grid.Column="1"
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
                                         TextColor="#503026">
                                         <Label.Text>
                                             <MultiBinding StringFormat="{}{0}, {1}">

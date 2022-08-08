@@ -48,9 +48,12 @@
           "dependencies": {
             "Xamarin.CommunityToolkit": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "target": "Package",
               "version": "[2.0.4, )"
 =======
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
               "target": "Package",
               "version": "[2.0.4, )"
             },

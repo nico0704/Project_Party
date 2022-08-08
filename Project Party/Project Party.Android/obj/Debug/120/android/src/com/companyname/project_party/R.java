@@ -9919,7 +9919,10 @@ public final class R {
     public static final int tooltip_frame_light=0x7f070091;
     public static final int xamarin_logo=0x7f070092;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static final int zahnrad=0x7f070093;
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 =======
 >>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
   }

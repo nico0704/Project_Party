@@ -21,7 +21,10 @@ namespace Project_Party.ViewModels
             Title = "Browse";
             PartyList = new ObservableCollection<Party>();
 <<<<<<< HEAD
+<<<<<<< HEAD
             ExecuteLoadItemsCommand();
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 =======
 >>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
             LoadPartysCommand = new Command(async () => await ExecuteLoadItemsCommand());
@@ -29,13 +32,19 @@ namespace Project_Party.ViewModels
         private ObservableCollection<Party> CreateTestList()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
             Party party = new Party(1, "Title", "Description", "TestFlyer.jpeg", DateTime.Now, "S-Club", "Fulda", "Leipziger Straße 21");
             
             PartyList.Add(party);
             PartyList.Add(party);
             PartyList.Add(party);
 
+<<<<<<< HEAD
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
+=======
 >>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
             return PartyList;
         }
@@ -49,9 +58,15 @@ namespace Project_Party.ViewModels
                 PartyList.Clear();
                 var partys = await DataStore.GetItemsAsync(true);
 <<<<<<< HEAD
+<<<<<<< HEAD
                 foreach (var party in partys)
                 {
                     PartyList.Add(party);
+=======
+                foreach (var item in partys)
+                {
+                    PartyList.Add(item);
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 =======
                 foreach (var item in partys)
                 {

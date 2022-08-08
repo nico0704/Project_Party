@@ -25,5 +25,11 @@
     </EmbeddedResource>
   </ItemGroup>
 
+<<<<<<< HEAD
 
+=======
+  <ItemGroup>
+    <Folder Include="NewFolder\NewFolder\" />
+  </ItemGroup>
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 </Project>
