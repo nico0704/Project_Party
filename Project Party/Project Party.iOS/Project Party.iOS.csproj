@@ -68,6 +68,9 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <BundleResource Include="Resources\FontAwesome6Regular.otf" />
+    <BundleResource Include="Resources\FontAwesome6Solid.otf" />
+    <BundleResource Include="Resources\FontAwesome6Brands.otf" />
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">
@@ -141,5 +144,8 @@
       <Project>{EFAA9E0F-AFEB-43DE-B37F-C8CE161A125F}</Project>
       <Name>Project Party</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\icons8-zahnrad-48.png" />
   </ItemGroup>
 </Project>

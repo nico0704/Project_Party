@@ -950,7 +950,19 @@
       },
       "frameworks": {
         "xamarinios10": {
+<<<<<<< HEAD
           "projectReferences": {}
+=======
+<<<<<<< HEAD
+          "projectReferences": {}
+=======
+          "projectReferences": {
+            "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj": {
+              "projectPath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party\\Project Party.csproj"
+            }
+          }
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
+>>>>>>> c48b9fe5fdc8fc11c8b6652180215e9f7e03e744
         }
       }
     },

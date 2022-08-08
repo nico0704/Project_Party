@@ -22243,6 +22243,15 @@ namespace Project_Party.Droid
 			
 			// aapt resource value: 0x7F070092
 			public const int xamarin_logo = 2131165330;
+<<<<<<< HEAD
+<<<<<<< HEAD
+			
+			// aapt resource value: 0x7F070093
+			public const int zahnrad = 2131165331;
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
+=======
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
 			
 			static Drawable()
 			{

@@ -1,6 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "il86bAe6bOE5qQo4HAZhPsIzqujJtvfK1rJIK9UKyY07RkuaQuYIXLd2/so2DM9IuBSF8IvBvs1EGzB3JhVHkw==",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "il86bAe6bOE5qQo4HAZhPsIzqujJtvfK1rJIK9UKyY07RkuaQuYIXLd2/so2DM9IuBSF8IvBvs1EGzB3JhVHkw==",
+=======
+  "dgSpecHash": "/btS4zsDH6YY6dClghCS10KvjjjH+kpstqEo+kb3S4ZwPWgGEP2whQquYIaoMf4tvER2lEL6G4hWaW1TMpDBAg==",
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
+=======
+  "dgSpecHash": "/btS4zsDH6YY6dClghCS10KvjjjH+kpstqEo+kb3S4ZwPWgGEP2whQquYIaoMf4tvER2lEL6G4hWaW1TMpDBAg==",
+>>>>>>> 11120ee0546093d4fb989a8269084f406b55c6be
+>>>>>>> c48b9fe5fdc8fc11c8b6652180215e9f7e03e744
   "success": true,
   "projectFilePath": "C:\\Users\\pmtbb\\source\\repos\\Project_Party\\Project Party\\Project Party.Android\\Project Party.Android.csproj",
   "expectedPackageFiles": [
